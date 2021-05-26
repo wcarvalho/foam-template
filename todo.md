@@ -1,9 +1,18 @@
-# Todo
+# Table of Contents
 
-You can create todos in Foam.
+1. [x] [[what's a symbol?]]
+2. [x] [[what's an object?]]
+3. [x] [[What's an option?]]
+4. [x] [[what's a schema?]]
+5. [ ] [[agent state for systematic generalization]]
+6. [ ] [[can attention be used to model activation of schemas and options?]]
+7. [x] [[how is language used with schemas?]]
+8. [ ] [[BBS-article]]
+9. [ ] [[ICLR-article]]
+10. [ ] [[related work for deepmind]]
 
-- [x] This is an example of a todo list item that's complete
-- [ ] This one is not completed yet
-- [ ] You can mark it completed by pressing `Option`+`C` (or `Alt`+`C`) when your cursor is on this line
-  - [ ] You can also select multiple lines and mark them all at once!
 
+## Links
+
+1. [Concrete Research Projects](https://docs.google.com/document/d/1aR3vKEmndJvIxsXPXYNqPwhLfkO2s-8sy9hL4GN9nyo/edit?usp=sharing)
+2. [[good-environments]]
