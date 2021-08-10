@@ -1,0 +1,6 @@
+# How my mom's anthropology career led me to deep reinforcement learning
+
+
+My interest in studying cognition via deep reinforcement learning spawns from my mom's career as an anthropologist. As a child, she emphasized that human behavior and human knowledge was best explained by our experiences in the world and how they interplay with the things we value. From a modeling perspective, she taught me that  methods that try define elaborate and detailed rules for behavior would never explain the diversity and creativity of human intelligence--there would always be edge cases. When I explored how artificial intelligence could help me capture the aspects of cognition and behavior I found interesting, my mother's teachings biased me towards deep reinforcement learning, a field which attempts to build generally competent artificial agents by combining simple reward-based learning algorithms with simple inductive biases for capturing data relationships.
+
+#cognition #deeprl #anthropology #fellowships #applications

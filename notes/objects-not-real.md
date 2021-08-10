@@ -1,0 +1,1 @@
+Hot take: the $objects that we consciously observe are #epiphenomenal. They're just instantiations of schemata.

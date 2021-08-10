@@ -2,7 +2,7 @@
 
 Language describes the evolution of schema's over time. How does this help learning?
 
-1. Language may be used to determine the latent code which is used for (a) reconstruction (b) the estimate of state at some moment (c) the description of some part of the environment to another agent?
+1. Language may be used to determine the latent code which is used for (a) reconstruction (b) the estimate of [[state]] at some moment (c) the description of some part of the environment to another agent as [[language]]?
 
 ``` mermaid
 graph TD;

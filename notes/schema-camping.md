@@ -1,0 +1,6 @@
+# Schema camping
+
+Recently, I went camping with friends. Somebody brought a Bluetooth speaker to play music by the fire. When the time came, the DJ had to pair with the speaker. When it came time to use the speakers, they were able to quickly learn how to navigate the speaker's state space as useful to us. I argue that in this situation, a person is using a "[[schema]]" of speakers to quickly learn to use a novel speaker. The schema probably manifested as an expectation for what traversal through the state space might look like based on "speakers". This made it easy to quickly choose actions with a relatively high success rate given the goals (e.g. playing songs for people). The schema manifested with (a) a mechanism for recognizing the state in the speaker state space, (b) a model for how the state space would evolve, (c) and a policy for how to navigate this state space. When using the speaker schema, it is probably composed with a schema for acting in mature.
+
+#schema-example
+#schema
