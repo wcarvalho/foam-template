@@ -5,11 +5,11 @@
             "path": "."
         }
     ],
-    "folder_exclude_patterns":
-    [
-        ".foam",
-        ".vscode",
-        ".obsidian",
-        "assets",
-    ],
+    "folder_exclude_patterns": ["assets", "temp"]
+    // [
+    //     // ".foam",
+    //     // ".vscode",
+    //     // ".obsidian",
+    //     "assets",
+    // ],
 }

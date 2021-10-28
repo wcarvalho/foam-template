@@ -14,6 +14,7 @@ g_t &\sim \pi^{\tt goal}(g | s^{{\tt hi}}_t, \tau) \in \mathbb{R}^{d_g}\\
 b_t &\sim \pi^{\tt params}(b | s^{{\tt hi}}_t, g_t, \tau) \in \{0,1\}^{m}
 \end{align}
 $$
+
  
 **Computing low-level policy actions**
 $$

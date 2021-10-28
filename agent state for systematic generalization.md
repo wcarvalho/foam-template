@@ -1,5 +1,5 @@
 ---
-tags: [agent-state, systematic-generalization]
+tags: [agent-state, systematic-generalization, generalization]
 ---
 
 # How do learn agent state that enables systematic generalization?
